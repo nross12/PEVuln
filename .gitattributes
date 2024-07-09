@@ -1,1 +1,2 @@
 features/*.jsonl filter=lfs diff=lfs merge=lfs -text
+feature/[[:space:]]vectors/*.pkl filter=lfs diff=lfs merge=lfs -text
