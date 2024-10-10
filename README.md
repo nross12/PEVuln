@@ -1,7 +1,7 @@
 # PEVuln
 
 ## Introduction
-PEVuln is a dataset created for research into *exploitable malware* by utilizing the malware vulnerability database [Malvuln](https://www.malvuln.com/ "Malvuln - Malware security vulnerabilty research and exploits targeting malware, worms and viruses"), and software vulnerability database [ExploitDB](https://www.exploit-db.com/ "Exploit Database - Exploits for Penetration Testers, Researchers, and Ethical Hackers") to create a new malware dataset. Currenlty the dataset consists of 864 vulnerable malware samples, 35,241 non-vulnerable malware samples, 1,425 vulnerable benign samples, and 7,905 non-vulnerable benign samples.
+PEVuln is a dataset created for research into *exploitable malware* by utilizing the malware vulnerability database [Malvuln](https://www.malvuln.com/ "Malvuln - Malware security vulnerabilty research and exploits targeting malware, worms and viruses"), and software vulnerability database [ExploitDB](https://www.exploit-db.com/ "Exploit Database - Exploits for Penetration Testers, Researchers, and Ethical Hackers") to create a new malware dataset. Currently the dataset consists of 864 vulnerable malware samples, 35,241 non-vulnerable malware samples, 1,425 vulnerable benign samples, and 7,905 non-vulnerable benign samples.
 
 We aim to update this dataset regularly as the *Malvuln* and *ExploitDB* databases update to aid in increasing sample size for use with AI. 
 
