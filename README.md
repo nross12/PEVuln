@@ -21,5 +21,9 @@ If you are using or adding to this dataset in a project or publication, please r
 ## Downloading the Dataset
 Because of the size of the dataset, we opted for using Git Large File Storage (LFS). To install the dataset, using ```git clone <repo>``` should work with LFS and install all files accordingly. 
 
+## Future implementation
+1. Update the metadata preprocessing format and extraction to be more efficient and informative.
+2. I am aiming to update the pipeline and potentially make it readily available for public use.
+
 ## Contact
 Feel free to contact Nathan (nross12@qub.ac.uk) if you have questions.
