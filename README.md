@@ -23,7 +23,8 @@ Because of the size of the dataset, we opted for using Git Large File Storage (L
 
 ## Future implementation
 1. Update the metadata preprocessing format and extraction to be more efficient and informative.
-2. I am aiming to update the pipeline and potentially make it readily available for public use.
+2. Update the pipeline and potentially make it readily available for public use.
+3. Using Mandiant's **capa** tool to identify the program capabilities of malware for additional information.
 
 ## Contact
 Feel free to contact Nathan (nross12@qub.ac.uk) if you have questions.
