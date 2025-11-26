@@ -26,5 +26,8 @@ Because of the size of the dataset, we opted for using Git Large File Storage (L
 2. Update the pipeline and potentially make it readily available for public use.
 3. Using Mandiant's **capa** tool to identify the program capabilities of malware for additional information.
 
+## Universities / Organizations with shared access
+(empty, so far)
+
 ## Contact
 Feel free to contact Nathan (nross12@qub.ac.uk) if you have questions.
